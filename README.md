@@ -18,16 +18,16 @@ I’m a second-year undergraduate student pursuing Computer Science and Engineer
 
 🌌 Astronomy & Astrophotography – I am a passionate explorer of the night skies and have been practicing amateur astrophotography for the past 4 years.
 
-🏆 Competitive Programming & DSA – I am constantly improving my problem-solving skills through Data Structures and Algorithms.
+🏆 Competitive Programming & DSA – I am improving my coding skills on LeetCode and Codeforces
 
 📬 Connect With Me
 
-📞 Phone: +91 9404844976
+📞 **Phone**: +91 9404844976
 
-📧 Email: 23110335@iitgn.ac.in
+📧 **Email**: 23110335@iitgn.ac.in
 
-🐙 GitHub: TejasLohia21
+🐙 **GitHub**: [TejasLohia21]([https://github.com/TejasLohia21](https://github.com/TejasLohia21))  
 
-💼 LinkedIn: Tejas Lohia
+💼 **LinkedIn**: [Tejas Lohia](https://www.linkedin.com/in/tejaslohia21/)  
 
-🐦 Twitter: @TejasLohia21
+🐦 **Twitter**: [@TejasLohia21](https://twitter.com/TejasLohia21)  
