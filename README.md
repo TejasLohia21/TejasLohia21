@@ -1,5 +1,3 @@
-Here’s a properly formatted version where each sentence appears on a new line:
-
 Hi there! 👋 I’m Tejas Lohia
 
 🚀 About Me
@@ -18,7 +16,7 @@ I’m a second-year undergraduate student pursuing Computer Science and Engineer
 
 🌌 Astronomy & Astrophotography – I am a passionate explorer of the night skies and have been practicing amateur astrophotography for the past 4 years.
 
-🏆 Competitive Programming & DSA – I am improving my coding skills on LeetCode and Codeforces
+🏆 Competitive Programming & DSA – I am improving my coding skills on LeetCode and Codeforces.
 
 📬 Connect With Me
 
