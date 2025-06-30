@@ -22,7 +22,7 @@ I’m a second-year undergraduate student pursuing Computer Science and Engineer
 
 📞 **Phone**: +91 9404844976
 
-📧 **Email**: 23110335@iitgn.ac.in
+📧 **Email**: tejas.lohia@iitgn.ac.in
 
 🐙 **GitHub**: [TejasLohia21]([https://github.com/TejasLohia21](https://github.com/TejasLohia21))  
 
