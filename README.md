@@ -4,7 +4,7 @@ Hi there! 👋 I’m Tejas Lohia
 
 I am Tejas, an explorer in this data-driven world.
 
-I’m a second-year undergraduate student pursuing Computer Science and Engineering with a minor in Mathematics at the prestigious Indian Institute of Technology, Gandhinagar.
+I’m a third-year undergraduate student pursuing Computer Science and Engineering with a minor in Mathematics at the prestigious Indian Institute of Technology, Gandhinagar.
 
 🌟 Interests & Explorations
 
