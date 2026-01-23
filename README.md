@@ -60,7 +60,7 @@ Advisor: *Prof. Ashish Mahabal*
 
 ---
 
-### usionEdge — Wayland Window Manager (Open Source)
+### FusionEdge — Wayland Window Manager (Open Source)
 
 - Built a **feature-rich Wayland window manager** atop TinyWL.
 - Implemented layered surface handling, foreign window integration, and memory-efficient window management.
