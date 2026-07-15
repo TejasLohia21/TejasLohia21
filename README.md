@@ -8,20 +8,22 @@ tejas.lohia@iitgn.ac.in
 
 ## About Me
 
-I am a junior undergraduate in **Computer Science & Engineering** at **IIT Gandhinagar**, with a minor in **Mathematics** and a strong interest in **machine learning, computer vision, systems, and time-series modeling**. My work spans both **theoretical rigor and large-scale practical systems**, with experience in building state-of-the-art research pipelines and open-source infrastructure.
+I am a rising serior pursuing **Computer Science & Engineering** at **IIT Gandhinagar**, with a minor in **Mathematics** and a strong interest in **machine learning, computer vision, systems, and time-series modeling**. My work spans both **theoretical rigor and large-scale practical systems**, with experience in building state-of-the-art research pipelines and open-source infrastructure.
 
-I have conducted research at **IIT Bombay** and will be joining **Caltech** as a **Research Intern (Summer 2026)**, focusing on **irregular and noisy time-series analysis using deep learning**.
+I have conducted research at **Caltech** as a **Research Intern (Summer 2026)**, focusing on **irregular and noisy time-series analysis using deep learning** and **IIT Bombay** as a **Research Intern (Summer 2026)**, on **Multi-target multi-camera** tracking in the domain of **Computer vision**
+
+I'll be joining Caltech again as a **Visiting undergraduate Researcher ** to work more on time-series data.
 
 ---
 
 ## Research Interests
 
-- Computer Vision (3D perception, multi-view geometry, re-identification)
 - Time-Series Modeling (irregular sampling, stochastic methods, periodicity detection)
-- Machine Learning Systems
-- Approximate Nearest Neighbor Search
+- Computer Vision (3D perception, multi-view geometry, re-identification)
 - Generative Models (Diffusion, 3D/4D representations)
 - Quantitative Finance & Algorithmic Trading
+- Machine Learning Systems
+- Approximate Nearest Neighbor Search
 - Operating Systems & Low-level Systems
 
 ---
@@ -39,7 +41,7 @@ Advisor: *Prof. Ganesh Ramakrishnan*
 
 ---
 
-### Upcoming Research Internship — California Institute of Technology (Caltech)  
+### Research Internship — California Institute of Technology (Caltech)  
 **Time-Series Analysis** (Summer 2026)  
 Advisor: *Prof. Ashish Mahabal*
 
