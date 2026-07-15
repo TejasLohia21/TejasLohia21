@@ -12,7 +12,7 @@ I am a rising senior pursuing **Computer Science & Engineering** at **IIT Gandhi
 
 I have conducted research at **Caltech** as a **Research Intern (Summer 2026)**, focusing on **irregular and noisy time-series analysis using deep learning** and at **IIT Bombay** as a **Research Intern (Summer 2025)**, on **Multi-target multi-camera** tracking in the domain of **Computer vision**
 
-I'll be joining Caltech again as a **Visiting undergraduate Researcher ** to work more on time-series data.
+I'll be joining Caltech again as a **Visiting undergraduate Researcher** to work more on time-series data.
 
 ---
 
