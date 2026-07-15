@@ -8,7 +8,7 @@ tejas.lohia@iitgn.ac.in
 
 ## About Me
 
-I am a rising serior pursuing **Computer Science & Engineering** at **IIT Gandhinagar**, with a minor in **Mathematics** and a strong interest in **machine learning, computer vision, systems, and time-series modeling**. My work spans both **theoretical rigor and large-scale practical systems**, with experience in building state-of-the-art research pipelines and open-source infrastructure.
+I am a rising senior pursuing **Computer Science & Engineering** at **IIT Gandhinagar**, with a minor in **Mathematics** and a strong interest in **machine learning, computer vision, systems, and time-series modeling**. My work spans both **theoretical rigor and large-scale practical systems**, with experience in building state-of-the-art research pipelines and open-source infrastructure.
 
 I have conducted research at **Caltech** as a **Research Intern (Summer 2026)**, focusing on **irregular and noisy time-series analysis using deep learning** and **IIT Bombay** as a **Research Intern (Summer 2026)**, on **Multi-target multi-camera** tracking in the domain of **Computer vision**
 
